@@ -1,7 +1,7 @@
 <widget id="A6038798369516"  version="0.0.1">
-    <name>API Example</name>
+    <name>广场app</name>
     <description>
-        API Example App.
+        这是一个广场app
     </description>
     <author email="developer@apicloud.com" href="//www.apicloud.com">
         APICloud.SIR
@@ -9,7 +9,7 @@
     <content src="index.html" />
     <access origin="*" />
     <preference name="windowBackground" value="#FFF" />
-    <permission name="call" />
+    <permission name="camera"/>
     <feature name="weiXin">
         <param name="urlScheme" value="wx7779c7c063a9d4d9" />
     </feature>
